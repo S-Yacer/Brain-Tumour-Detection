@@ -11,7 +11,7 @@ The following models are implemented and compared in this project:
 -Xception
 -ResNet
 
-#Requirements
+# Requirements
 The code in this repository was written in Python 3.8 and requires the following packages to be installed:
 ```numpy
 pandas

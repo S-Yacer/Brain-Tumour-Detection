@@ -1,5 +1,5 @@
 # Brain Tumor Detection using Machine Learning
-This repository contains code and data for a project that explores the use of different machine learning models to detect brain tumors from magnetic resonance imaging (MRI) scans. The goal is to compare the accuracy of various models, including artificial neural networks (ANNs), convolutional neural networks (CNNs), and some transfer learning models based on pre-trained architectures such as VGG and Xception.
+This repository contains code for a project that explores the use of different machine learning models to detect brain tumors from magnetic resonance imaging (MRI) scans. The goal is to compare the accuracy of various models, including artificial neural networks (ANNs), convolutional neural networks (CNNs), and some transfer learning models based on pre-trained architectures such as VGG and Xception.
 
 # Project Overview
 The following models are implemented and compared in this project:

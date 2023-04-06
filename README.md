@@ -19,7 +19,8 @@ matplotlib
 seaborn
 scikit-learn
 tensorflow
-keras```
+keras
+```
 
 You can install these packages using pip by running:
 ```pip install -r requirements.txt```
